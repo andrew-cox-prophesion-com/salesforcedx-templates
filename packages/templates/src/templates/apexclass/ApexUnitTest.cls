@@ -1,4 +1,7 @@
-/**
+/*
+ * Copyright (c) 2022 Prophesion Group Ltd
+ */
+ /**
  * This class contains unit tests for validating the behavior of Apex classes
  * and triggers.
  *
